@@ -11,7 +11,7 @@ I tested the model on different types of datasets:
 
 - Binary classification (breast cancer dataset)  
 - Multi-class classification ( Wine dataset)  
-- MNIST dataset (image classification)
+- MNIST dataset (hand written digits classification)
 
 ## Results
  - Here I have saved the ploted model learning curve of the model ( losses vs epochs ) 
